@@ -1,6 +1,5 @@
-# Apuntes de ![OIP](https://data.textstudio.com/output/sample/animated/5/9/4/7/html-4-17495.gif)
-
-## Definición
+# Apuntes de 
+## Definición ![OIP](https://data.textstudio.com/output/sample/animated/5/9/4/7/html-4-17495.gif)
 HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hipertexto), **es el lenguaje estándar para estructurar el contenido de las páginas web, definiendo elementos como texto, imágenes, enlaces y tablas a través de etiquetas o marcas.** Se encarga de la estructura y el contenido de un sitio web, mientras que CSS se encarga de su estilo y JavaScript de su funcionalidad. 
 ## Componentes principales de HTML
 - **Etiquetas:** Son códigos que indican al navegador cómo debe interpretar y mostrar el contenido. Por ejemplo, `<p>` indica el inicio de un párrafo y `</p>` su fin. 
