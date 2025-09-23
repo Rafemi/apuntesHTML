@@ -23,3 +23,4 @@ HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hip
     </body>
   </head>
 </html>
+![OIP](https://github.com/user-attachments/assets/5facca14-a28e-47e9-8baa-a8b4373f6afa)
