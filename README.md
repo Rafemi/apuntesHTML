@@ -14,7 +14,7 @@ HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hip
 - **Interpretación del navegador:** El navegador interpreta las etiquetas y atributos de estos archivos para renderizar el contenido de la página web para el usuario. 
 - **Estandarización:** Es un lenguaje descriptivo y textual, lo que permite que todos los navegadores puedan interpretarlo de manera uniforme. 
 ### Ejemplo de página HTML
-
+![OIP](https://www.simplilearn.com/ice9/free_resources_article_thumb/html-draw-line.PNG)
 ```php
 <html>
   <head>
@@ -23,4 +23,4 @@ HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hip
     </body>
   </head>
 </html>
-![OIP](https://www.simplilearn.com/ice9/free_resources_article_thumb/html-draw-line.PNG)
+
