@@ -15,7 +15,7 @@ HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hip
 - **Estandarización:** Es un lenguaje descriptivo y textual, lo que permite que todos los navegadores puedan interpretarlo de manera uniforme. 
 ### Ejemplo de página HTML
 ![](images/o-que-e-codigo-html.jpg)
-```php
+```html
 <html>
   <head>
     <body>
